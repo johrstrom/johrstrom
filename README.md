@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work for [OSC](https://www.osc.edu/), mostly maintaining [Open OnDemand](https://github.com/OSC/ondemand/).
+
 <!--
 **johrstrom/johrstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
